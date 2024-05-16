@@ -6,3 +6,4 @@ Kai McKenzie
 Andrew Solbjor  
 Shu Zhang  
 Chris Vo  
+Lordsble Orji
